@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SitkoviGrafiku</string>
+    <string name="work_title">Назва роботи</string>
+    <string name="fict_label">Фіктивна</string>
+    <string name="work_number">Порядок виконання</string>
+    <string name="work_name">Назва роботи</string>
+    <string name="string_time_work">Час виконання: %d</string>
+    <string name="string_number_work">Порядок виконання: %d</string>
+    <string name="dialog_new_work">Нова Робота</string>
+    <string name="menu_new_work">Додати роботу</string>
+    <string name="edit_text_number">%d</string>
+    <string name="item_calc">Розрахувати</string>
+    <string name="d_work">Робота №%d</string>
+    <string name="d_desc">Може бути продовжена або відкладена на %d днів</string>
+    <string name="d_start">Початок: %s</string>
+    <string name="d_dur">Тривалість: %d днів</string>
+    <string name="d_end">Очікуване закінчення: %s</string>
+    <string name="d_can_not">Повинна бути виконана у зазначений термін</string>
+    <string name="t_duration">Тривалість проекту: %d днів</string>
+    <string name="t_end">Дата закінчення проекту: %s</string>
+</resources>
